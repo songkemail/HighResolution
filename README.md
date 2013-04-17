@@ -1,0 +1,4 @@
+HighResolution
+==============
+
+High resolution
